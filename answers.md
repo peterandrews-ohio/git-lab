@@ -48,6 +48,8 @@ Answer 9: On branch main
 	  nothing to commit, working tree clean
 Answer 10: No, my changes were not committed.
 Answer 11: I get an error. git push does not work when the remote repo has been altered so that there is work that I do not have locally. I need to use git pull first to update my local files to reflect the remote repo, and then I can use git push to push my local files to the remote repo.
+Answer 12: Yes, my changes were reflected since I first used git pull.
+Answer 13: .  ..  .git  .gitignore  README.md
 
 
 
